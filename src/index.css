@@ -1,0 +1,117 @@
+.table-responsive-sm {
+    width: 90%;
+    height: 300px;
+    overflow-y: auto;
+}
+
+#modal {
+    width: 80%;
+    height: max-content;
+}
+
+#modal2 {
+    width: 90%;
+    height: max-content;
+}
+
+#instructions {
+    height: 45px;
+    padding-top: 5px;
+    justify-items: center;
+}
+
+input {
+    border-radius: 25px;
+    width: 200px;
+    margin-right: 15px;
+    margin-left: 15px;
+    text-align: center;
+}
+
+#instructions2 > p {
+   width: max-content;
+   margin-right: 35px;
+}
+
+#instructions2 {
+    height: 45px;
+    padding-top: 5px;
+}
+
+.EDButs {
+    border-radius: 25px;
+    text-align: center;
+    margin-right: 35px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#instructions3 {
+    height: 45px;
+    padding-top: 5px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#buttondiv {
+    width: max-content
+}
+
+.DelButs {
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    margin-right: 35px;
+}
+
+.DelButs > p{
+    margin-bottom: 0px;
+}
+
+#homepage {
+    height: 93vh;
+    background-image: url(/src/assets/images/Rum_barrel.jpg);
+    background-size: cover;
+    background-position: 50px -220px;
+    padding-top: 200px;
+}
+
+#titlecard {
+    border-radius: 25px;
+    border: 4px;
+    border-style: solid;
+    height: 100px;
+    width: 350px;
+    background-color: rgb(255, 254, 253);
+    margin: auto;
+    padding-top: 30px;
+    padding-left: 12px;
+    padding-right: 10px;
+    border-color: brown;
+}
+
+#titlecard > p {
+    margin: auto;
+}
+
+#navbar {
+    width: 100%;
+    height: 50px;
+    background-color: brown;
+}
+
+#navlinks {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 7px
+}
+
+#dashboardpage {
+    height: 93vh;
+    background-image: url(/src/assets/images/Rum_barrel.jpg);
+    background-size: cover;
+    background-position: 50px -220px;
+}
